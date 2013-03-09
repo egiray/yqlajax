@@ -1,3 +1,3 @@
-denemem
+deneme
 ======
 Bu sayfa deneme sayfasidir.
